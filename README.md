@@ -1,6 +1,6 @@
 # CIA-3 — ML for Social Good: Breast Cancer Risk Screening
 
-**Course:** MCA 521-4 Machine Learning | **Component:** CIA-3 (25 marks)
+**Course:** MCA 521-4 Machine Learning | 
 **Author:** Angel Blessy | **Guide:** Dr. Helen K Joy
 **Institution:** CHRIST (Deemed to be University), Department of Computer Science
 **Mission track:** Mission Health
